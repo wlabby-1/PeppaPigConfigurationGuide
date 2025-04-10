@@ -14,7 +14,7 @@
 
 此链接到PDF：[https://github.com/wlabby-1/PeppaPigConfigurationGuide/blob/main/PeppaPigConfigurationGuide.pdf](https://github.com/wlabby-1/PeppaPigConfigurationGuide/blob/main/PeppaPigConfigurationGuide.pdf)
 
-iOS客户端参考视频：https://github.com/wlabby-1/PeppaPigConfigurationGuide/blob/main/Solution%20for%20iOS%20client%20proxy%20conflict.mp4
+iOS客户端参考视频：https://github.com/wlabby-1/PeppaPigConfigurationGuide/blob/main/iOS-%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%92%8C%E7%8C%AB%E7%BD%91%E7%BB%9C%E5%86%B2%E7%AA%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.mp4
 
 
 
