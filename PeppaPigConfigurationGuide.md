@@ -161,6 +161,16 @@ tun-excluded-routes后面加",6.6.6.6/32, 2000::6666/128"(加引号内的内容)
 
 <img src="https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/20250307175400319.png?imageSlim" alt="image-20250307175400234" style="zoom: 50%;" />
 
+##### 注意！surge增强模式
+
+surge中需要配置的选项有些不同
+
+```
+skip-proxy后面加",-*.heiyu.space, -*.lazycat.cloud"(加引号内的内容)
+tun-excluded-routes后面加",6.6.6.6/32, 2000::6666/128"(加引号内的内容)
+找一个空行加这段"always-real-ip = -*.heiyu.space, -*.lazycat.cloud"(加引号内的内容)
+```
+
 ####  Windows
 
 在Windows操作系统上如果下载其他的代理软件，可能会导致能正常访问Google，但是用浏览器打不开微服
@@ -208,6 +218,10 @@ tun:
 **TUN**
 
 ![image-20250529180723017](https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/20250529180723278.png?imageSlim)
+
+Clash for Windows 配置是一样的，但是Clash for Windows需要在主页勾选**IPv6**选项
+
+![image-20250611155728660](https://lzc-playground-1301583638.cos.ap-chengdu.myqcloud.com/guidelines/395/202506111557767.png)
 
 修改完成之后，重启一下代理开关
 
